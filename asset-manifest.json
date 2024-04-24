@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Movie-buzz-Redux-toolkit/static/css/main.94b7d735.css",
+    "main.js": "/Movie-buzz-Redux-toolkit/static/js/main.15df17b8.js",
+    "static/media/pnf.jpg": "/Movie-buzz-Redux-toolkit/static/media/pnf.38a2ceebb514ace0d870.jpg",
+    "static/media/user.png": "/Movie-buzz-Redux-toolkit/static/media/user.109eb92014ac0b55efdf.png",
+    "index.html": "/Movie-buzz-Redux-toolkit/index.html",
+    "main.94b7d735.css.map": "/Movie-buzz-Redux-toolkit/static/css/main.94b7d735.css.map",
+    "main.15df17b8.js.map": "/Movie-buzz-Redux-toolkit/static/js/main.15df17b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94b7d735.css",
+    "static/js/main.15df17b8.js"
+  ]
+}
