@@ -1,12 +1,18 @@
 # MovieBuzz Created using React ReduxToolkit
 
+"Welcome to Movie Buzz! Your one-stop hub for all things Harry Potter and Friends. Using Redux Toolkit for seamless state management and Axios API calls, we bring you the latest details on these beloved series. Dive into the wizarding world or laugh along with the gang from Friends. Movie Buzz keeps you updated and entertained!"
+
+### Harry potter series
+![Screenshot 2024-04-24 121034](https://github.com/sanjaymaraboina/Movie-buzz-Redux-toolkit/assets/153506569/d17bc6b1-0a44-42a9-97fc-42fc1d765e4e)
+
+### F.r.i.e.n.d.s Series
+![Screenshot 2024-04-24 121051](https://github.com/sanjaymaraboina/Movie-buzz-Redux-toolkit/assets/153506569/1d0b0fc1-2ed9-4069-8f4f-94f95856f90b)
+## work flow and state management
+
+![Screenshot 2024-04-24 121119](https://github.com/sanjaymaraboina/Movie-buzz-Redux-toolkit/assets/153506569/d994cab5-3f0f-4633-b28a-d0835e12647e)
 
 
-
-
-
-
-
+![Screenshot 2024-04-24 121143](https://github.com/sanjaymaraboina/Movie-buzz-Redux-toolkit/assets/153506569/1de4eca8-ce7b-4251-8bed-40be104d0067)
 
 
 
