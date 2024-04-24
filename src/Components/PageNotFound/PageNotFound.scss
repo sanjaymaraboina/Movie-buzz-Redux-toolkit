@@ -1,0 +1,21 @@
+
+@import "../../Usable/colors.scss";
+
+
+.container{
+    margin: 0;
+}
+.imageFound{
+    width: 100%;
+    height: 100vh;
+    
+
+    img{
+        width:100%;
+        height: 100vh;
+        overflow-x: hidden;
+
+        
+    }
+   
+}
