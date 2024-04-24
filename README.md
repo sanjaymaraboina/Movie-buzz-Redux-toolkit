@@ -1,4 +1,4 @@
-#MovieBuzz Created using #React #ReduxToolkit
+# MovieBuzz Created using React ReduxToolkit
 
 
 
